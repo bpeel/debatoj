@@ -28,7 +28,7 @@ Oni devus anstataŭigi vortojn per bildoj.
 
 Ĉiuj famuloj devus loĝi en la sama urbo.
 
-Oni devus nomi ĉiujn fruktojn laŭ siaj koloroj, kiel oranĝojn.
+Oni devus nomi ĉiujn kolorojn laŭ fruktoj, kiel oranĝkolora.
 
 Ĉiuj politikaj diskursoj devus rimiĝi.
 
@@ -110,7 +110,7 @@ Devus esti ok sezonoj anstataŭ nur kvar.
 
 Ĉiu filmo devus esti en 3D.
 
-Ĉiu gajninto en la loterio devus fordonaci ĉiujn siajn ĝajnaĵojn.
+Ĉiu gajninto en la loterio devus fordonaci ĉiujn siajn gajnaĵojn.
 
 Oni devus pagi al ĉiu la saman kvanton de mono, sendepende de la laboro kiun tiu faras.
 
@@ -122,7 +122,7 @@ Oni devus liberigi ĉiujn hamstrojn kaj kobajojn.
 
 Ĉiu devus havi skribamikon en alia lando.
 
-Ĉiu devus ellitiĝi unu horon pli frue por havi bonan mantenmanĝon.
+Ĉiu devus ellitiĝi unu horon pli frue por havi bonan matenmanĝon.
 
 Komputilludoj devus esti olimpika sporto.
 
