@@ -1,18 +1,12 @@
 #!/usr/bin/env python3
 
 import gi
-gi.require_version('Rsvg', '2.0')
-from gi.repository import Rsvg
 gi.require_version('Pango', '1.0')
 from gi.repository import Pango
 gi.require_version('PangoCairo', '1.0')
 from gi.repository import PangoCairo
 import cairo
-import math
 import re
-import collections
-import os
-import xml.etree.ElementTree as ET
 
 POINTS_PER_MM = 2.8346457
 
